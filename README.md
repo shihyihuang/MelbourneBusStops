@@ -4,9 +4,9 @@
 
 ### **Table of Contents**
 
-- [INTRODUCTION](#INTRODUCTION)
-- [METHODOLOGY](#METHODOLOGY)
-- [RESULTS](#RESULTS)
+- [INTRODUCTION](#intro)
+- [METHODOLOGY](#method)
+- [RESULTS](#results)
   - [SPEED ANALYSIS](#SPEED_ANALYSIS)
   - [CLOSER BUS STOPS THAN MONASH BUS LOOP: 572M RADIUS ANALYSIS ](#CLOSER_BUS_STOPS)
   - [BUS ROUTES FOR NEARBY STOPS](#BUS_ROUTES_FOR_NEARBY_STOPS)
@@ -18,12 +18,12 @@
 
 ---
 
-### **Introduction** <a name="INTRODUCTION"></a>
+### **Introduction** <a name="intro"></a>
 
 The GPX data, which records the route I usually take from my home to the Monash bus loop, the bus stop I consider to be the closest, is collected through the GPX Tracker app. Additionally, the report utilizes the PTV/GTFS dataset and Australian Boundary data obtained from the official site, with specific details available in the reference.
 The report aims to investigate whether there are bus stops nearer to my home than the Monash bus loop and to explore the accessible destinations via the routes of these bus stops. Furthermore, it identifies the suburbs within this radius to understand the distribution of bus stops near my home and to validate my hypothesis that suburbs near universities have a higher demand for public transportation, resulting in a higher density of bus stops. However, if including other types of public transportation, the density of stops would not be higher, as there are no tram stops within these suburbs. The analysis will provide insights into the distribution of public transportation stops in the region.
 
-#### **METHODOLOGY** <a name="METHODOLOGY"></a>
+### **METHODOLOGY** <a name="method"></a>
 
 **Data Import and Initial Exploration**
 
@@ -42,7 +42,7 @@ Subsequently, I will identify which suburbs fall within this range and calculate
 
 QGIS is employed to visualize my analysis since the results are all related to geometric data. Depending on the type of result, different visualization approaches are used. For instance, to display the density of stops in suburbs, a graduated color is used to represent different levels of density, effectively highlighting suburbs with higher stop density.
 
-#### **RESULTS** <a name="RESULTS"></a>
+### **RESULTS** <a name="results"></a>
 
 **SPEED ANALYSIS** <a name="SPEED_ANALYSIS"></a>
 
@@ -76,12 +76,12 @@ Suburbs with a higher density of bus stops also tend to have a higher overall de
 ![trans_stops.png](img%2Ftrans_stops.png)
 ![trans_stops_large.png](img%2Ftrans_stops_large.png)
 
-#### **CONCLUSION** <a name="CONCLUSION"></a>
+### **CONCLUSION** <a name="CONCLUSION"></a>
 
 There are 11 bus stops closer to my home than the Monash bus loop, and they are served by 3 routes: 703, 737, and 742. However, due to the high density of bus stops, it is challenging to display and determine if these routes serve the specific destinations I need. This makes it difficult to determine if they can serve as alternatives to the buses, I used to take at the Monash bus loop. I only have a general idea of which suburb they could bring me to. Also, due to the difficulty in distinguishing the round-trip direction, the displayed routes appear messy.
 Moreover, the analysis reveals a distribution that contradicts the hypothesis that suburbs near schools would have a higher density. Instead, they fall in the middle position overall. It shows that the suburbs near the center of the Greater Melbourne area have a higher density, while it decreases towards the west and east.
 
-#### **REFERENCE** <a name="REFERENCE"></a>
+### **REFERENCE** <a name="REFERENCE"></a>
 
 Australian Bureau of Statistics. (2021). Allocation files Mesh Blocks - 2021. [Data set]. ABS.
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition- 3/jul2021-jun2026/access-and-downloads/allocation-files.
