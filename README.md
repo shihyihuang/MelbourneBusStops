@@ -85,8 +85,11 @@ Moreover, the analysis reveals a distribution that contradicts the hypothesis th
 
 Australian Bureau of Statistics. (2021). Allocation files Mesh Blocks - 2021. [Data set]. ABS.
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files.
+
 Australian Bureau of Statistics. (2021). Allocation files Local Government Areas - 2021.[Data set]. ABS.
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files.
+
 Australian Bureau of Statistics. (2021). Allocation files Suburbs and Localities - 2021.[Data set]. ABS.
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files.
+
 PTV. (2023) PTV-GTFS 17 March 2023. [Data set]. Open Mobility Data. https://transitfeeds.com/p/ptv/497/20230317
