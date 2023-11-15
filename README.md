@@ -45,26 +45,26 @@ The average speed at which I walk from home to Monash bus loop is approximately 
 
 **Closer Bus Stops Than Monash Bus Loop: 572m Radius Analysis** <a name="CLOSER_BUS_STOPS"></a>
 The average speed at which I walk from home to Monash bus loop is approximately 5.08 kilometres per hour, equivalent to roughly 1.41 meters per second.
-![stops_closer.png](img%stops_closer.png)
+![stops_closer.png](img%2Fstops_closer.png)
 
 **Bus Routes for Nearby Stops** <a name="BUS_ROUTES_FOR_NEARBY_STOPS"></a>
 The analysis reveals that bus routes 703, 737, and 742 serve these nearby stops, and the graph illustrates the destinations accessible through these routes.
-![near_route.png](img%near_route.png)
-![near_route_large.png](img%near_route_large.png)
+![near_route.png](img%2Fnear_route.png)
+![near_route_large.png](img%2Fnear_route_large.png)
 
 **SUBURBS WITHIN 572 METERS OF MY LOCATION** <a name="SUBURBS_WITHIN_572_METERS"></a>
 The suburbs that fall within 572 meters of my home are Clayton and Notting Hill.
-![clayton_nott.png](img%clayton_nott.png)
+![clayton_nott.png](img%2Fclayton_nott.png)
 
 **BUS STOP DENSITY BY SUBURB (STOPS/KM2)** <a name="BUS_STOP_DENSITY"></a>
 The suburbs near my home, namely Clayton and Notting Hill, have 11.51 bus stops per square kilometer and 10.06 bus stops per square kilometer, respectively. Their density falls in the middle position overall, which contradicts the hypothesis that suburbs near schools would have a higher density. The distribution reveals that the suburbs near the center of the Greater Melbourne area have a higher density, while it decreases towards the west and east.
-![bus_density.png](img%bus_density.png)
-![bus_density_large.png](img%bus_density_large.png)
+![bus_density.png](img%2Fbus_density.png)
+![bus_density_large.png](img%2Fbus_density_large.png)
 
 **PUBLIC TRANSPORTATION STOP DENSITY BY SUBURB (STOPS/KM2)** <a name="PUBLIC_TRANSPORTATION_STOP_DENSITY"></a>
 Suburbs with a higher density of bus stops also tend to have a higher overall density of stops, which includes all types of public transportation. As expected in my hypothesis, when considering all types of public transportation and not just buses, the density of stops in suburbs near universities is not higher.
-![trans_stops.png](img%trans_stops.png)
-![trans_stops_large.png](img%trans_stops_large.png)
+![trans_stops.png](img%2Ftrans_stops.png)
+![trans_stops_large.png](img%2Ftrans_stops_large.png)
 
 #### **CONCLUSION**: <a name="CONCLUSION"></a>
 
