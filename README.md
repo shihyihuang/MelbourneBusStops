@@ -23,7 +23,7 @@
 The GPX data, which records the route I usually take from my home to the Monash bus loop, the bus stop I consider to be the closest, is collected through the GPX Tracker app. Additionally, the report utilizes the PTV/GTFS dataset and Australian Boundary data obtained from the official site, with specific details available in the reference.
 The report aims to investigate whether there are bus stops nearer to my home than the Monash bus loop and to explore the accessible destinations via the routes of these bus stops. Furthermore, it identifies the suburbs within this radius to understand the distribution of bus stops near my home and to validate my hypothesis that suburbs near universities have a higher demand for public transportation, resulting in a higher density of bus stops. However, if including other types of public transportation, the density of stops would not be higher, as there are no tram stops within these suburbs. The analysis will provide insights into the distribution of public transportation stops in the region.
 
-#### **METHODOLOGY**: <a name="METHODOLOGY"></a>
+#### **METHODOLOGY** <a name="METHODOLOGY"></a>
 
 **Data Import and Initial Exploration**
 
