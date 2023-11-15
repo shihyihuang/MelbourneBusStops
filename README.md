@@ -13,8 +13,8 @@
   - [SUBURBS WITHIN 572 METERS OF MY LOCATION](#SUBURBS_WITHIN_572_METERS)
   - [BUS STOP DENSITY BY SUBURB (STOPS/KM2)](#BUS_STOP_DENSITY)
   - [PUBLIC TRANSPORTATION STOP DENSITY BY SUBURB (STOPS/KM2)](#PUBLIC_TRANSPORTATION_STOP_DENSITY)
-- [CONCLUSION](#CONCLUSION)
-- [REFERENCE](#REFERENCE)
+- [CONCLUSION](#conclusion)
+- [REFERENCE](#reference)
 
 ---
 
@@ -76,12 +76,12 @@ Suburbs with a higher density of bus stops also tend to have a higher overall de
 ![trans_stops.png](img%2Ftrans_stops.png)
 ![trans_stops_large.png](img%2Ftrans_stops_large.png)
 
-### **CONCLUSION** <a name="CONCLUSION"></a>
+### **CONCLUSION** <a name="conclusion"></a>
 
 There are 11 bus stops closer to my home than the Monash bus loop, and they are served by 3 routes: 703, 737, and 742. However, due to the high density of bus stops, it is challenging to display and determine if these routes serve the specific destinations I need. This makes it difficult to determine if they can serve as alternatives to the buses, I used to take at the Monash bus loop. I only have a general idea of which suburb they could bring me to. Also, due to the difficulty in distinguishing the round-trip direction, the displayed routes appear messy.
 Moreover, the analysis reveals a distribution that contradicts the hypothesis that suburbs near schools would have a higher density. Instead, they fall in the middle position overall. It shows that the suburbs near the center of the Greater Melbourne area have a higher density, while it decreases towards the west and east.
 
-### **REFERENCE** <a name="REFERENCE"></a>
+### **REFERENCE** <a name="reference"></a>
 
 Australian Bureau of Statistics. (2021). Allocation files Mesh Blocks - 2021. [Data set]. ABS.
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition- 3/jul2021-jun2026/access-and-downloads/allocation-files.
